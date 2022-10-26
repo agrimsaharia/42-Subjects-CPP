@@ -3,3 +3,5 @@
 /temp.exe
 /.vscode
 *.exe
+*.o
+*.gch
