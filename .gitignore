@@ -1,7 +1,5 @@
-/Assignments
-/temp.cpp
-/temp.exe
-/.vscode
-*.exe
-*.o
-*.gch
+*
+!.cpp
+!.hpp
+!Makefile
+!README.md
